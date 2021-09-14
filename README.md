@@ -1,13 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto do jogo genesis🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
-
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+Criação do jogo gênesis, pelo BootCamp da Digital Innovation One em parceria com a
+empresa Eduzz bootcamp Fullstack Developer,
+ministrado por Gabriela Pinheiro Front-End engineer
+Utilizamos HTML, Css e Javascript básico.
